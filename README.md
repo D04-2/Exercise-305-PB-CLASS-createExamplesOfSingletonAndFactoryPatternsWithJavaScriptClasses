@@ -25,4 +25,5 @@ Use your knowledge of JavaScript classes and OOP to create an example of the Sin
 
 ### 2.1. Create a factory pattern to create objects
 
-- nnn
+- create a class `ShoppingCart` with properties:
+  - products - **array of strings**
